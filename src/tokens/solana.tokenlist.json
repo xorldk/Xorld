@@ -1,13 +1,35 @@
 {
-    "chainId": 101,
-    "address": "ArJzV1YZdPWkeJdmyruG88rNi3957Uu18nxfD1sbwtMN",
-    "symbol": "XORLD",
-    "name": "XORLD",
-    "decimals": 9,
-    "logoURI": "ipfs://QmW7mF8UuTq4M6Xt5tDEb7h5HRw28k6CtkNRUkdNKmL1ow",
-    "tags": ["utility-token"],
-    "extensions": {
+  "name": "Solana Token List",
+  "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+  "keywords": [
+    "solana",
+    "spl"
+  ],
+  "tags": {
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens with utility"
+    }
+  },
+  "timestamp": "2024-02-11T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "ArJzV1YZdPWkeJdmyruG88rNi3957Uu18nxfD1sbwtMN",
+      "symbol": "XORLD",
+      "name": "XORLD",
+      "decimals": 9,
+      "logoURI": "ipfs://QmW7mF8UuTq4M6Xt5tDEb7h5HRw28k6CtkNRUkdNKmL1ow",
+      "tags": ["utility-token"],
+      "extensions": {
         "website": "https://xorld.org",
         "github": "https://github.com/xorldk/Xorld"
+      }
     }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
